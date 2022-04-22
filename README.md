@@ -1,2 +1,7 @@
 # Data_Visualization
-Data Viz Techniques &amp; Tools  (CyberGIS, Plot.ly,Vega, ParaView, VTK.js, SAGE3)
+Introduction to Data Visualization (including Tableau, Plot.ly/Dash, and ParaView)
+by
+Jason Leigh, Scott Marshall, Katherine Ackerman
+Hawaii Data Science Institute
+University of Hawaii at Manoa
+
